@@ -1,0 +1,3 @@
+D:/clion_projects/wangdao_c_primary/6_pointer/struc_stu/cmake-build-debug/CMakeFiles/struc_stu.dir
+D:/clion_projects/wangdao_c_primary/6_pointer/struc_stu/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion_projects/wangdao_c_primary/6_pointer/struc_stu/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\struc_stu.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\struc_stu.dir/objects.a @CMakeFiles\struc_stu.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\struc_stu.dir/objects.a -Wl,--no-whole-archive -o struc_stu.exe -Wl,--out-implib,libstruc_stu.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\struc_stu.dir\linklibs.rsp
